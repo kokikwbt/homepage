@@ -1,22 +1,23 @@
-baseURL = "https://example.com"
+baseURL = "https://kokikwbt.github.io"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "My New hugo Site"
+title = "Koki Kawabata"
 contentDir = "content"
-# publishDir = "docs"
+publishDir = "public"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
 # hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
 rssLimit = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+# This message is only used by the RSS template.
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-152692905-1"
 # disqusShortname = "yourdiscussshortname"
 
 [author]
-  name = "John Doe"
+  name = "Koki Kawabata"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -38,7 +39,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "A minimal and fast theme for Hugo."
+  homeSubtitle = "Osaka Univ. D3"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -59,15 +60,23 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Check https://github.com/Track3/hermit#social-icons for more info.
   [[params.social]]
     name = "twitter"
-    url = "https://twitter.com/"
+    url = "https://twitter.com/kokikwbt"
 
   [[params.social]]
     name = "instagram"
-    url = "https://instagram.com/"
+    url = "https://instagram.com/kokispics"
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/kokikwbt"
+
+  [[params.social]]
+    name = 'paypal'
+    url = "https://paypal.me/kokikwbt"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/kokikwbt"
 
 [menu]
 
@@ -77,6 +86,11 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     weight = 10
 
   [[menu.main]]
-    name = "About"
-    url = "about-hugo/"
+    name = "Publications"
+    url = "publications/"
     weight = 20
+
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 30
