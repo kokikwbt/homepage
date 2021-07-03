@@ -10,7 +10,7 @@ draft: false
 [_Non-Linear Mining of Social Activities in Tensor Streams._](https://doi.org/10.1145/3394486.3403260)  
 In Proceedings of The 26th ACM SIGKDD Conference
 on Knowledge Discovery and Data Mining (KDD '20'). pp 2093–2102.  
-[[pdf]](data/literature/)
+[[pdf]](/literature/cubecast.pdf)
 [[pptx]](data/literature/)
 [[bibtex]](data/literature/)
 
@@ -18,7 +18,7 @@ on Knowledge Discovery and Data Mining (KDD '20'). pp 2093–2102.
 [_Automatic Sequential Pattern Mining in Data Streams._](https://doi.org/10.1145/3357384.3358002)  
 In Proceedings of the 28th ACM International Conference
 on Information and Knowledge Management (CIKM '19). pp 1733-1742.  
-[[pdf]](data/literature/)
+[[pdf]](/literature/streamscope.pdf)
 [[pptx]](data/literature/)
 [[bibtex]](data/literature/)
 
@@ -48,6 +48,14 @@ DEIM Forum 2016, G1-6.
 
 ## Journals
 
+1. Koki Kawabata, Yasuko Matsubara, Takato Honda and Yasushi Sakurai. 2021.  
+[_Non-Linear Mining of Social Activities in Tensor Streams_]()  
+情報処理学会論文誌データベース(TOD), to appear.
+
+1. Tasuku Kimura, Yasuko Matsubara, Koki Kawabata and Yasushi Sakurai. 2021.  
+[_Real-time Forecasting of Co-evolving Epidemics._]()  
+情報処理学会論文誌データベース(TOD), to appear.
+
 1. Takato Honda, Yasuko Matsubara, Koki Kawabata, and Yasushi Sakurai. 2020.  
 [_Multi-aspect Tensor Mining for Event Forecasting._](http://id.nii.ac.jp/1001/00202861/)  
 情報処理学会論文誌データベース(TOD), 13巻1号.  
@@ -60,12 +68,19 @@ DEIM Forum 2016, G1-6.
 
 
 ## Patents
-1. 発明者：川畑光希，松原（櫻井）靖子，本田崇人，櫻井保志  
+
+1. 発明者：川畑光希，松原靖子，本田崇人，櫻井保志  
     発明等：_時系列テンソルデータのための予測装置，予測方法，及びプログラム_，  
     出願番号：特願2020-139168  
     出願日：2020.08.20
 
-1. 発明者：本田崇人，松原（櫻井）靖子，川畑光希，櫻井保志  
+1. 発明者：本田崇人，松原靖子，川畑光希，櫻井保志  
     発明等：時系列解析に基づくイベント予測装置，イベント予測方法およびプログラム  
     出願番号：特願2020-8388  
     出願日：2020.01.22
+
+1. 発明者：櫻井保志、松原靖子、入船恭彰、山室　冴、川畑光希、浦　　晃、河東　孝、梅田裕平  
+    発明等：付与方法、付与ブログラム及び付与装置  
+    出願番号：特願2019-036210  
+    出願日：2019年2月28日  
+    公開日：2020年9月3日  

@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 title = "Koki Kawabata"
 contentDir = "content"
 publishDir = "public"
+staticDir = ["literature", "images"]
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -34,12 +35,15 @@ googleAnalytics = "UA-152692905-1"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
+
   # Metadata mostly used in document's head
-  # description = ""
+  description = "Koki Kawabata's personal website"
   # images = [""]
   themeColor = "#494f5c"
+  tensorstreamurl = "images/tensor_stream.gif"
+  avatarurl = ""
 
-  homeSubtitle = "Osaka Univ. D3"
+  homeSubtitle = "Osaka Univ."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -64,7 +68,7 @@ googleAnalytics = "UA-152692905-1"
 
   [[params.social]]
     name = "instagram"
-    url = "https://instagram.com/kokispics"
+    url = "https://instagram.com/kokikwbt"
 
   [[params.social]]
     name = "github"
@@ -94,3 +98,6 @@ googleAnalytics = "UA-152692905-1"
     name = "About"
     url = "about/"
     weight = 30
+
+[[resources]]
+  src = "literature/*.pdf"
