@@ -6,45 +6,40 @@ draft: false
 
 ## Conferences
 
-1. Koki Kawabata, Yasuko Matsubara, Takato Honda, and Yasushi Sakurai. 2020.  
-[_Non-Linear Mining of Social Activities in Tensor Streams._](https://doi.org/10.1145/3394486.3403260)  
-In Proceedings of The 26th ACM SIGKDD Conference
-on Knowledge Discovery and Data Mining (KDD '20'). pp 2093–2102.  
+1. Koki Kawabata*, Siddharth Bhatia*, Rui Liu, Mohit Wadhwa, Bryan Hooi. 2021.  
+[_SSMF: Shifting Seasonal Matrix Factorization_](https://nips.cc/Conferences/2021/Schedule?showEvent=27627).
+NeurIPS 2021.
+[[pdf]](https://arxiv.org/abs/2110.12763)
+[[code]](https://github.com/kokikwbt/ssmf)
+
+1. Koki Kawabata, Yasuko Matsubara, Takato Honda, and Yasushi Sakurai.
+[_Non-Linear Mining of Social Activities in Tensor Streams._](https://doi.org/10.1145/3394486.3403260)
+KDD 2020.
 [[pdf]](/literature/cubecast.pdf)
-[[pptx]](data/literature/)
-[[bibtex]](data/literature/)
 
-1. Koki Kawabata, Yasuko Matsubara, and Yasushi Sakurai. 2019.  
-[_Automatic Sequential Pattern Mining in Data Streams._](https://doi.org/10.1145/3357384.3358002)  
-In Proceedings of the 28th ACM International Conference
-on Information and Knowledge Management (CIKM '19). pp 1733-1742.  
+1. Koki Kawabata, Yasuko Matsubara, and Yasushi Sakurai.
+[_Automatic Sequential Pattern Mining in Data Streams._](https://doi.org/10.1145/3357384.3358002)
+CIKM 2019.
 [[pdf]](/literature/streamscope.pdf)
-[[pptx]](data/literature/)
-[[bibtex]](data/literature/)
 
-1. Koki Kawabata, Yasuko Matsubara, and Yasushi Sakurai. 2018.  
-[_StreamScope: Automatic Pattern Discovery over Data Streams._](https://doi.org/10.1145/3211954.3211959)  
-In Proceedings of the First International Workshop
-on Exploiting Artificial Intelligence Techniques for Data Management (aiDM’18). Article 5, 1–8.
+1. Koki Kawabata, Yasuko Matsubara, and Yasushi Sakurai.
+[_StreamScope: Automatic Pattern Discovery over Data Streams._](https://doi.org/10.1145/3211954.3211959)
+aiDM 2018 (SIGMOD Workshop).
 
-1. K. Kawabata, Y. Matsubara, T. Honda, Y. Imai, Y. Tajima, and Y. Sakurai. 2020.  
-[_大規模購買ログの時系列分析に基づくLTV予測_](https://doi.org/10.11517/pjsai.JSAI2020.0_4K2GS303),  
-JSAI 2020.  
+<!-- 1. K. Kawabata, Y. Matsubara, T. Honda, Y. Imai, Y. Tajima, and Y. Sakurai.
+[_大規模購買ログの時系列分析に基づくLTV予測_](https://doi.org/10.11517/pjsai.JSAI2020.0_4K2GS303).
+JSAI 2020.
 [[pdf]](data/literature/)
-[[pptx]](data/literature/)
-[[bibtex]](data/literature/)
-
 1. S. Yamamuro, Y. Matsubara, K. kawabata, Y. Ide, Y. Umeda,
-T. Hurukawa, Y. Okawa, K. Maruhashi, H. Inakochi, and Y. Sakurai,  
-[_深層学習を用いた時系列データの要約と分類_](https://db-event.jpn.org/deim2018/data/papers/241.pdf),  
-DEIM Forum 2018, C3-3.  
+T. Hurukawa, Y. Okawa, K. Maruhashi, H. Inakochi, and Y. Sakurai,
+[_深層学習を用いた時系列データの要約と分類_](https://db-event.jpn.org/deim2018/data/papers/241.pdf),
+DEIM Forum 2018, C3-3.
 [[pdf]](data/literature/)
-[[pptx]](data/literature/)
-[[bibtex]](data/literature/)
+1. Koki Kawabata, Yasuko Matsubara and Yasushi Sakurai,
+[_自動パターン検出のためのストリームアルゴリズム_](),
+DEIM Forum 2016, G1-6. -->
 
-1. Koki Kawabata, Yasuko Matsubara and Yasushi Sakurai,  
-[_自動パターン検出のためのストリームアルゴリズム_](),  
-DEIM Forum 2016, G1-6.
+(* denotes equal contribution)
 
 ## Journals
 
@@ -59,12 +54,10 @@ DEIM Forum 2016, G1-6.
 1. Takato Honda, Yasuko Matsubara, Koki Kawabata, and Yasushi Sakurai. 2020.  
 [_Multi-aspect Tensor Mining for Event Forecasting._](http://id.nii.ac.jp/1001/00202861/)  
 情報処理学会論文誌データベース(TOD), 13巻1号.  
-[[bibtex]](data/literature/)
 
 1. Koki Kawabata, Yasuko Matsubara, and Yasushi Sakurai. 2018.  
 [_An Online Algorithm for Mining Data Streams._](http://id.nii.ac.jp/1001/00187084/)  
 情報処理学会論文誌データベース(TOD), 11巻1号.  
-[[bibtex]](data/literature/)
 
 
 ## Patents

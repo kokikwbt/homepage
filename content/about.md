@@ -4,8 +4,8 @@ date: 2021-04-01T14:49:22+09:00
 draft: false
 ---
 
-Assistant Professor at ISIR, Osaka University.
-My research interests are time series analysis,
+Assistant Professor at SANKEN, Osaka University.
+My research interests include time series analysis,
 stream mining and machine learning techniques.
 
 <!-- {{< figure src="/images/tensor_stream.gif" class="center" width="320" height="320" >}} -->
@@ -14,13 +14,12 @@ stream mining and machine learning techniques.
 - [Sakurai/Matsubara Laboratory](https://www.dm.sanken.osaka-u.ac.jp/)
 - [Artificial Intelligence Center](
     https://www.sanken.osaka-u.ac.jp/labs/aic/index.html)
-- [The Institute of Scientific and Industrial Research](
+- [The Institute of Scientific and Industrial Research (SANKEN)](
     https://www.sanken.osaka-u.ac.jp/en/)
 - [Osaka University](https://www.osaka-u.ac.jp/en/index.html)  
 
 Address: Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan  
 Email: koki[at]sanken.osaka-u.ac.jp  
-Tel: 06-6510 (Secretary)
 
 - - - 
 
